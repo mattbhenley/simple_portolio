@@ -1,2 +1,2 @@
 # simple_portolio
-simple portfolio - works out of the box - one page - it's cool 
+my simple portfolio - works out of the box - one page - dark mode too - it's cool!
